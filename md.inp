@@ -1,0 +1,9 @@
+temp=298.15 # in K
+time= 50.0  # in ps
+dump= 50.0  # in fs
+step=  4.0  # in fs
+velo=false
+nvt =true
+hmass=4
+shake=2
+sccacc=2.0
