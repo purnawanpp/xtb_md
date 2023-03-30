@@ -9,5 +9,8 @@
 ## Plot energy using matplotlib and pandas 
 1. Plot energy with this script: https://github.com/purnawanpp/xtb_md/blob/main/xtb_md.ipynb
 
+## Visualisasi menggunakan perangkat lunak OVITO
+1. Ubah nama xtb.trj menjadi xtb.xyz dan visualisasikan menggunakan OVITO
+
 ## Reference
 1. https://xtb-docs.readthedocs.io/en/latest/md.html
