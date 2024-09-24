@@ -4,7 +4,7 @@
 1. Running this command: `xtb dock rec.xyz lig.xyz --gbsa methanol`
 
 ## Molecular dynamics 
-1. Running this command: `xtb final_structures.xyz --input md.inp --omd`
+1. Running this command: `xtb best.xyz --input md.inp --omd`
 
 ## Plot energy using matplotlib and pandas 
 1. Plot energy with this script: https://github.com/purnawanpp/xtb_md/blob/main/xtb_md.ipynb
